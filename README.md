@@ -6,7 +6,7 @@ An interactive data science project exploring the relationship between Bitcoin m
 
 ## Live Dashboard
 
-🔗 [View Interactive Dashboard](https://shivanivishwa.github.io/my_trading_dashboard/bitcoin_sentiment_dashboard.html)
+🔗 [View Interactive Dashboard](https://jovial-gaufre-ccc372.netlify.app/))
 
 ---
 
@@ -69,33 +69,8 @@ This project analyzes **211,224 real trades** from Hyperliquid and maps them aga
 
 ---
 
-## Project Structure
 
-```
-my_trading_dashboard/
-├── bitcoin_sentiment_dashboard.html   # Standalone interactive dashboard
-├── README.md                          # Project documentation
-├── analysis.ipynb                     # Full analysis notebook (Google Colab)
-└── data/
-    ├── fear_greed_index.csv           # Bitcoin Fear/Greed Index (2018–2025)
-    └── historical_trades.csv          # Hyperliquid trader data
-```
 
----
-
-## How to Run Locally
-
-No installation needed. Just open the dashboard in your browser:
-
-```bash
-# Clone the repo
-git clone https://github.com/shivanivishwa/my_trading_dashboard.git
-
-# Open the dashboard
-cd my_trading_dashboard
-open bitcoin_sentiment_dashboard.html   # macOS
-start bitcoin_sentiment_dashboard.html  # Windows
-```
 
 ---
 
@@ -111,14 +86,4 @@ start bitcoin_sentiment_dashboard.html  # Windows
 
 ---
 
-## Author
 
-**Shivani Vishwa**  
-Data Scientist  
-[GitHub](https://github.com/shivanivishwa)
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
